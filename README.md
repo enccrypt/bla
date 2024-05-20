@@ -1,0 +1,1 @@
+General commands in GITHUB: git init, git add . (to spectate all of the new files), git commit - this command makes a commit, like screenshot, then you choose the branch and push that! git branch -M main && git push -u origin main
